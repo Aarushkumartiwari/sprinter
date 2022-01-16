@@ -1,1 +1,1 @@
-# sprinter
+# canvas-sprite-animation
